@@ -29,6 +29,7 @@ setup(
         'console_scripts': [
             'corridor_safety_monitor = office_delivery_robot.corridor_safety_monitor:main',
             'office_drive_node = office_delivery_robot.office_drive_node:main',
+            'map_bag = office_delivery_robot.map_bag:main',
         ],
     },
 )
