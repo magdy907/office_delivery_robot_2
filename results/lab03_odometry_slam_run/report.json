@@ -1,0 +1,26 @@
+{
+  "scans_in_bag": 15806,
+  "scans_used": 15805,
+  "scans_skipped_no_close_odom": 1,
+  "odom_samples": 39515,
+  "laser_offset_m": [
+    0.1,
+    0.0
+  ],
+  "beams": {
+    "hits": 5435978,
+    "misses": 253822,
+    "ignored": 0
+  },
+  "map": {
+    "width_cells": 661,
+    "height_cells": 745,
+    "resolution_m": 0.05,
+    "origin": [
+      -13.9,
+      -29.3
+    ],
+    "occupied_cells": 14943,
+    "free_cells": 224235
+  }
+}
